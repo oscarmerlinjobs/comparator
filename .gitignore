@@ -7,3 +7,6 @@ target/
 *.iws
 *.iml
 *.ipr
+
+*.log
+*.gz
